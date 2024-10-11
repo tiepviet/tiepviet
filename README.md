@@ -1,7 +1,7 @@
 # Hi there 👋
--  I am Software Engineer. I like to learn about new technologies in IT field.
+-  I am a IT software engineer. I'd like to learn about new technologies in IT field.
 - My hobby is reading manga, listening to music, watching movie.
-- [Twitter](https://twitter.com/Vietnguyenq)
+- [Twitter](https://x.com/Vietnguyenq)
 
 ## ⚡ Status
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
