@@ -13,6 +13,7 @@
 ### 📫 Connect with me:  
 - [Twitter/X](https://x.com/Vietnguyenq)  
 - (Add any other links: GitHub, LinkedIn, Blog, etc.)
+- ☕ Support me on [Ko-fi](https://ko-fi.com/tiepviet)
 
 ## ⚡ Status
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
